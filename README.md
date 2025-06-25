@@ -1,6 +1,6 @@
 ## 🔬 For Academic Researchers
 
-**CRITICAL**: This is an EXPLORATORY FRAMEWORK, not a proven system.
+**CRITICAL**: This is an exploratory framework.
 
 ### Theoretical Foundation
 - Based on David Marr's three levels of analysis
