@@ -25,3 +25,26 @@
 - Theoretical basis needs empirical validation
 
 **This is a starting point for research, not an endpoint.**
+
+## ⚠️ IMPORTANT: Academic Disclaimer
+
+**This notebook series presents a THEORETICAL FRAMEWORK for exploring hexagonal representations in consciousness modeling, inspired by David Marr's levels of analysis.**
+
+### What This IS:
+- 🧠 **Computational Level**: Exploring why hexagonal organization might be optimal for consciousness
+- 🔬 **Algorithmic Level**: Demonstrating how hexagonal patterns could be implemented
+- 💻 **Implementation Level**: Providing code frameworks for researchers to test these ideas
+
+### What This IS NOT:
+- ❌ NOT claiming proven performance improvements
+- ❌ NOT based on empirical consciousness measurements
+- ❌ NOT a finished system - it's a research exploration tool
+- ❌ NOT making claims about biological consciousness
+
+### Key Points:
+1. **Simulated Benchmarks**: Performance comparisons use placeholder values to demonstrate the benchmarking framework
+2. **Theoretical Basis**: While hexagonal patterns appear in nature (grid cells, molecular structures), their application to consciousness modeling is exploratory
+3. **Research Tool**: This is meant to inspire investigation, not present conclusions
+4. **Honest Results**: Some benchmarks may show hexagonal architectures performing worse - this is valuable data for optimization
+
+**For Researchers**: Please use this as a starting point for your own investigations. The framework is designed to be filled with your actual implementations and measurements.
