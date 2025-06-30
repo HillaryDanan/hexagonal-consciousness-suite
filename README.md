@@ -59,6 +59,6 @@ If you use this work in your research, please cite:
   title = {Hexagonal Consciousness Suite},
   year = {2025},
   month = {June},
-  url = {https://github.com/YOUR_USERNAME/hexagonal-consciousness-suite}
+  url = {https://github.com/HillaryDanan/hexagonal-consciousness-suite}
 }
 ```
