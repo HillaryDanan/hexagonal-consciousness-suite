@@ -48,3 +48,17 @@
 4. **Honest Results**: Some benchmarks may show hexagonal architectures performing worse - this is valuable data for optimization
 
 **For Researchers**: Please use this as a starting point for your own investigations. The framework is designed to be filled with your actual implementations and measurements.
+
+## Citation
+
+If you use this work in your research, please cite:
+
+```bibtex
+@software{danan2025hexagonal,
+  author = {Danan, Hillary},
+  title = {Hexagonal Consciousness Suite},
+  year = {2025},
+  month = {June},
+  url = {https://github.com/YOUR_USERNAME/hexagonal-consciousness-suite}
+}
+```
