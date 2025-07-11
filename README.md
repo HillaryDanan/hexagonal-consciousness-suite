@@ -1,5 +1,8 @@
 ## 🔬 For Academic Researchers
 
+> Part of the [Cognitive Architectures for AI](https://github.com/HillaryDanan/cognitive-architectures-ai) research program
+
+
 **CRITICAL**: This is an exploratory framework.
 
 ### Theoretical Foundation
